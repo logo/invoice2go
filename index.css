@@ -1,0 +1,21 @@
+
+/**
+ * invoice2go logo.
+ */
+
+.logo[data-logo="invoice2go"] {
+  width: 0;
+}
+
+.logo[data-logo="invoice2go"] > * {
+  background-image: url(images/logo.svg);
+  margin: 0 0 0 0;
+}
+
+.logo[data-logo="invoice2go"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="invoice2go"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}

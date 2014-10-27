@@ -1,0 +1,19 @@
+{
+  "logo": "invoice2go",
+  "name": "invoice2go",
+  "repo": "logo/invoice2go",
+  "description": "The invoice2go logo.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}
